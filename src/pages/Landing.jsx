@@ -81,7 +81,7 @@ export default function Landing() {
         >
           {[
             { number: '500+', label: 'AI Agents' },
-            { number: '50K+', label: 'Active Users' },
+            { number: '60K+', label: 'Active Users' },
             { number: '1M+', label: 'Total Downloads' },
           ].map((stat, index) => (
             <motion.div
